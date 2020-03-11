@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/Udacity/AndroidDeveloperND/Android_Me/AndroidDeveloperND-Android_Me.iml" filepath="$USER_HOME$/Documents/Udacity/AndroidDeveloperND/Android_Me/AndroidDeveloperND-Android_Me.iml" group="Android_Me" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Android_Me.iml" filepath="$PROJECT_DIR$/.idea/Android_Me.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Udacity/AndroidDeveloperND/Android_Me/app/app.iml" filepath="$USER_HOME$/Documents/Udacity/AndroidDeveloperND/Android_Me/app/app.iml" group="Android_Me/app" />
+    </modules>
+  </component>
+</project>
